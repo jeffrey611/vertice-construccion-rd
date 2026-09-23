@@ -1,0 +1,6 @@
+{
+  "name": "Vértice Construcción Dominicana | Ingeniería Estructural & Edificación BIM 5D",
+  "description": "Sitio web corporativo de Vértice Construcción en República Dominicana: torres residenciales en Santo Domingo, villas en Punta Cana, ingeniería sismorresistente CODIA, BIM 5D y cotizador en vivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
